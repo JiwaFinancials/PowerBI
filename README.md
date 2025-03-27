@@ -1,5 +1,5 @@
 # PowerBI
-Power BI Models for Jiwa
+Power BI Models for Jiwa.
 
 ## Inventory Model
 
